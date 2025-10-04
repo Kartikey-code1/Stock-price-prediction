@@ -1,4 +1,4 @@
-# 📈 Stock Market Prediction Interface
+# 📈 Stock Price Prediction 
 
 An **interactive Streamlit application** for analyzing stock market data and predicting next-day stock prices using **LSTM deep learning**.  
 
@@ -74,4 +74,5 @@ Select indicators to display (MA20, Bollinger Bands, RSI, MACD)
 Enter a ticker for next-day prediction and configure lookback days and epochs
 
 3.View metrics, interactive charts, and next-day predicted price in the main panel.
+
 
